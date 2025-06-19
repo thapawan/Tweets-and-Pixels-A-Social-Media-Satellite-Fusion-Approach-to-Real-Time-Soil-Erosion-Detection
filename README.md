@@ -84,7 +84,7 @@ Contributions welcome! Please:
 3. Submit a Pull Request
 
 ## 📧 Contact
-For questions, contact: [your.email@university.edu](mailto:your.email@university.edu)
+For questions, contact: [pthapa2@crimson.ua.edu](mailto:pthapa2@crimson.ua.edu)
 ```
 
 ---
